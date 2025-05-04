@@ -21,37 +21,19 @@
  [QR] ***[`TAP HERE TO SCAN QR`](https://moses-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Support 🏹 🏹 🏹
-## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029VaFdPojJkK70RWo2Bf1l" target="_blank">
-    <img alt="whatsapp Group" src="https://img.Arrows.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=Blue" />
-  </a>
-</p>
+## JOIN MY CHANNEL AND MY GROUP FOR UPDATES 
+
+“WHATSAPP CHANNEL”
+
+https://whatsapp.com/channel/0029VaFdPojJkK70RWo2Bf1l
+"whatsapp Group"
+https://chat.whatsapp.com/EuDbs4Ff6MU3SdVxCB0dmU
 
 
 HOW TO REACH THE OWNER? 
- 
-   
-   <a href="(https://wa.me/message/NJ5BNQW4XLQNC1)">
-    <img src="https://img.Arrows.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=Blue" />
-  </a>&nbsp;&nbsp;
-   <a
+ https://wa.me/message/NJ5BNQW4XLQNC1
 
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## STEPS TO DEPLOY YOUR BOT
-
-
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/mrmosesclr/MOSES-MD/fork)
-
-2, TAP ON Marinyame studios DOWN THERE
-
-
-
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
 
 ## Contributions
 
@@ -65,5 +47,4 @@ The *MOSES-MD* is released under the [MIT License](https://opensource.org/licens
 
 Enjoy the diverse features of the *MOSES-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Marinyame Studios 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/WeyZbo.gif'/></a>
