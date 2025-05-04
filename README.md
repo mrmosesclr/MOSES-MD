@@ -1,22 +1,16 @@
-# MOSES-MD
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://i.imgur.com/bcsYbgb.gif]'/></a>
+<a><img src='[https://i.imgur.com/bcsYbgb.gif]'/></a>
  <h1 align="center"> MOSES MD </h1>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Red&stripes=𝗔𝗠+MOSES+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+MUNYARADZI+MARINYAME)](https://git.io/typing-svg)
+<a><img src='(https://i.imgur.com/bcsYbgb.jpeg)'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/bcsYbgb.gif'/></a>
  
 <p align="center"> MOSES MD🏹, A Simple WhatsApp user BOT, Created by Marinyame Studios.
 </p>
-<p align="center">
-
-
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center"             
+<a><img src='https://i.imgur.com/.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
 
