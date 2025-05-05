@@ -8,6 +8,16 @@
 <a><img src='https://i.imgur.com/bcsYbgb.gif'/></a>
  
 <p align="center"> MOSES MD🏹, A Simple WhatsApp user BOT, Created by Marinyame Studios.
+  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0000FF&center=true&width=1000&height=150&lines=MOSES-MD" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+Mr+MOSES" alt="Typing SVG" />
+</p>
+
+
+
+
 </p>
 <p align="center"             
 <a><img src='https://i.imgur.com/.gif'/></a>
